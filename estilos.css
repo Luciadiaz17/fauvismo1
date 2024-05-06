@@ -27,8 +27,12 @@ footer > a{
     text-decoration: none;
 }
 .henri{
-    padding-top: 100px;
+    padding-top: 120px;
     padding-left: 90px;
+}
+.figuras2{
+    padding-top: 2000px;
+    padding-left: 300px; 
 }
 .figuras{
     padding-top: 2500px;
@@ -85,3 +89,41 @@ footer > a{
 .footer4 > a{
     text-decoration: none;
 }
+.estilo1{
+    font-size: 16px;
+    font-weight: 100;
+    font-family: League Spartan;
+    color: #BB4430;
+}
+input[type="submit"] {
+    border: 2px solid #BB4430; 
+    background-color: #BB4430; 
+    color: #EFE6DD; 
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+input[type="reset"] {
+    border: 2px solid #BB4430; 
+    background-color: #BB4430;
+    color: #EFE6DD; 
+    font-size: 16px; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    margin-left: 10px;
+}
+.con{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        padding-left: 350px;
+        padding-top: 400px;
+        text-decoration: none;
+}
+.con > a{
+        text-decoration: none;
+}
+
